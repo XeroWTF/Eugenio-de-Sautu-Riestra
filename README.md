@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://images.emojiterra.com/openmoji/v14.0/512px/1f44b.png" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Eugenio de Sautu Riestra, a full-time full-stack freelance developer 👨‍💻 working remotely </div>  
   
@@ -38,7 +34,7 @@
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -54,11 +50,9 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
-
-</td></tr></table>  
 
 <br/>  
 
@@ -79,16 +73,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=XeroWTF&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
+ 
 
 <br/>  
 
@@ -96,10 +81,6 @@
 <img src="https://komarev.com/ghpvc/?username=XeroWTF&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
 <br />
 
 ----
